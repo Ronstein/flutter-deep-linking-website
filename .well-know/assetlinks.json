@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.rodrigopavez.miscelaneos",
+            "sha256_cert_fingerprints": [
+                "A4:B0:38:1D:73:7C:B4:3E:C9:45:D7:FE:3B:74:78:C6:AC:82:89:B5:29:9B:62:01:6C:8C:B5:BD:24:9F:C8:51"
+            ]
+        }
+    }
+]
